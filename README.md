@@ -62,7 +62,7 @@ When the temperature reaches or exceeds the predefined threshold of **33°C**, t
 | Channel 0 | Temperature (°C) |
 | Channel 1 | Alert Status (0 = Normal, 1 = Alert) |
 
-![Relay Output](./relayssig)
+![DHT11 Sensor Output](./imgdhtss.png)
 
 ## ✨ Features
 
