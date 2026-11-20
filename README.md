@@ -34,6 +34,8 @@ When the temperature reaches or exceeds the predefined threshold of **33°C**, t
 - Adafruit Unified Sensor Library
 - KiwisIoT Library
 
+[View Arduino Code](./temp.ino)
+
 ## 🔌 Pin Connections
 
 | Component | NodeMCU Pin |
@@ -59,6 +61,8 @@ When the temperature reaches or exceeds the predefined threshold of **33°C**, t
 |---|---|
 | Channel 0 | Temperature (°C) |
 | Channel 1 | Alert Status (0 = Normal, 1 = Alert) |
+
+![Relay Output](./relayssig)
 
 ## ✨ Features
 
